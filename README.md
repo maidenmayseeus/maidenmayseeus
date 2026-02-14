@@ -1,5 +1,7 @@
-<div align="center">
-  <img height="360" src="https://media1.tenor.com/m/kHl-PmTKNDoAAAAC/ado.gif"  />
+<div align=center>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=inter&weight=500&size=23&pause=1000&color=F70000&center=true&width=435&lines=ssst...;Who+may+see+us%3F" alt="Typing SVG" /></a>
+  <br>
+   <img width="720" src="https://media1.tenor.com/m/n0Kwr-2ob4MAAAAC/deco27-deco-27.gif"  />
 </div>
 
 ###
@@ -8,7 +10,7 @@
 
 ###
 
-<h1 align="center">hellow there👋, i'm Tresna</h1>
+<h1 align="center">hello there👋</h1>
 
 ###
 
@@ -16,8 +18,11 @@
 
 ###
 
-<p align="left">I'm student from indonesia, i tried my best to keep as productive as possible.<br><br>- 🏫 I’m student from SMKN 7 Baleendah.<br>- 📚 I love learn everything <br>- ⚡ my goal is bring lambo ke garasi with my beloved PHP</p>
-
+I'm a **Student** and **Full-Stack Dev** wannabes from Indonesia with over 3 years of **web programing** experience.
+<br><br>
+- 🏫 I’m student from SMKN 7 Baleendah.<br>
+- 📚 I love learn everything <br>
+- ⚡ my goal is bring lambo ke garasi with my beloved PHP
 ###
 
 <h3 align="left">🛠 My Tech Stack</h3>
@@ -34,37 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
-
-###
-
-<h3 align="left">📩 Lets Connected :</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/tresnarihermana/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:tresnarihermana@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/st.trsnaa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=tresnarihermana&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tresnarihermana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
